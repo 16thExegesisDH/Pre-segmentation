@@ -1,2 +1,1 @@
-# .github
-Guideline for HTR
+# Guideline for HT
