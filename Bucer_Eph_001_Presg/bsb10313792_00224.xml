@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+    xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-3.xsd">
+    <Description>
+        <MeasurementUnit>pixel</MeasurementUnit>
+        <sourceImageInformation>
+            <fileName>bsb10313792_00224.jpg</fileName>
+        </sourceImageInformation>
+        <Processing ID="OCR_0">
+            <processingCategory>other</processingCategory>
+            <processingStepDescription>unknown</processingStepDescription>
+            <processingSoftware>
+                <softwareName>kraken</softwareName>
+                <softwareVersion>4.3.13</softwareVersion>
+            </processingSoftware>
+        </Processing>
+    </Description>
+    <Tags>
+        <OtherTag ID="TYPE_1" LABEL="RunningTitleZone"/>
+        <OtherTag ID="TYPE_2" LABEL="MarginTextZone"/>
+        <OtherTag ID="TYPE_3" LABEL="TitlePageZone"/>
+        <OtherTag ID="TYPE_4" LABEL="GraphicZone"/>
+        <OtherTag ID="TYPE_5" LABEL="QuireMarksZone"/>
+        <OtherTag ID="TYPE_6" LABEL="DamageZone"/>
+        <OtherTag ID="TYPE_7" LABEL="TableZone"/>
+        <OtherTag ID="TYPE_8" LABEL="MusicZone"/>
+        <OtherTag ID="TYPE_9" LABEL="NumberingZone"/>
+        <OtherTag ID="TYPE_10" LABEL="CustomZone"/>
+        <OtherTag ID="TYPE_11" LABEL="DigitizationArtefactZone"/>
+        <OtherTag ID="TYPE_12" LABEL="DropCapitalZone"/>
+        <OtherTag ID="TYPE_13" LABEL="text"/>
+        <OtherTag ID="TYPE_14" LABEL="MainZone"/>
+        <OtherTag ID="TYPE_15" LABEL="StampZone"/>
+    </Tags>
+    <Layout>
+        <Page WIDTH="1188" HEIGHT="1924" PHYSICAL_IMG_NR="0" ID="page_0">
+            <PrintSpace HPOS="0" VPOS="0" WIDTH="1188" HEIGHT="1924">
+            </PrintSpace>
+        </Page>
+    </Layout>
+</alto>
