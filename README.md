@@ -9,7 +9,7 @@ legende : light blue
 ### 3.Examples
 | Type | Example | 
 | -------- | ------- |
-| AdvertisementZone (red) <br/> MainZone:P (dark green) <br/> MainZone:P#Continued (light blue) | <img src="pictures/Bucer_Eph1.png" width="300"/>|
+| AdvertisementZone (red) <br/> MainZone:P (dark green) <br/> MainZone:P#Continued (light blue) | <img src="/pictures/Bucer_Eph_1.png" width="300"/>|
 
 
 link to the pictures/Bucer_Rm_1.png
