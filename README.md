@@ -9,7 +9,7 @@ legende : light blue
 ### 3.Examples
 | Type | Example | 
 | -------- | ------- |
-| MainZone:Head  (yellow) <br/> MainZone:P (dark green) <br/> MainZone:P#Continued (light blue) <br/> NumberingZone (rosa) for "section 12" and "102" | <img src="/pictures/Bucer_Eph_1.png" width="300"/>|
+|RunningTitleZone (pink) <br/>  MainZone:Head : yellow <br/> MainZone:P : dark green <br/> MainZone:P#Continued : light blue <br/> NumberingZone : rosa for "section 12" and "102" <br/> QuireMarkZone : viola| <img src="/pictures/Bucer_Eph_1.png" width="300"/>|
 
 
 link to the pictures/Bucer_Rm_1.png
