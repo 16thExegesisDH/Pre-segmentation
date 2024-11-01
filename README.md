@@ -24,5 +24,5 @@ legende : light blue
 
 | Type | Example | 
 | -------- | ------- |
-|RunningTitleZone pink <br/>  DropCapitalZone : dark viola <br/> MainZone:Head : yellow <br/> MainZone:P : dark green <br/> MainZone:P#Continued : light blue <br/> NumberingZone : rosa for "section 12" and "102" | <img src="/pictures/Lefevre_2.png" width="300"/>|
+|RunningTitleZone pink <br/>  DropCapitalZone : dark viola <br/> MainZone:Head : yellow <br/> MainZone:P : dark green <br/> MainZone:P#Continued : light blue <br/> NumberingZone : rosa for "1" "C4" "D4" "5" "6" | <img src="/pictures/Lefevre_2.png" width="300"/>|
 
