@@ -14,12 +14,12 @@ legende : light blue
 
 | Type | Example | 
 | -------- | ------- |
-|RunningTitleZone pink <br/>  MainZone:Head : yellow <br/> MainZone:P : dark green <br/> MainZone:P#Continued : light blue <br/> NumberingZone : rosa for "section 12" and "102" <br/> QuireMarkZone : viola| <img src="/pictures/Bucer_Rm_1.png" width="300"/>|
+|RunningTitleZone pink <br/>  MainZone:Head : yellow <br/> MainZone:P : dark green <br/> MainZone:P#Continued : light blue <br/> NumberingZone : rosa "456", "II", "III" <br/> QuireMarkZone : viola| <img src="/pictures/Bucer_Rm_1.png" width="300"/>|
 
 
 | Type | Example | 
 | -------- | ------- |
-|RunningTitleZone pink <br/>  MainZone:Head : yellow <br/> MainZone:P : dark green <br/> MainZone:P#Continued : light blue <br/> NumberingZone : rosa for "section 12" and "102" <br/> QuireMarkZone : viola| <img src="/pictures/Lefevre_1.png" width="300"/>|
+|RunningTitleZone pink for "VII" Epistle number and "Col" Epistle name <br/>  MainZone:Head : yellow <br/> MainZone:P : dark green <br/> MainZone:P#Continued : light blue <br/> NumberingZone : rosa for "section 12" and "102" <br/> QuireMarkZone : viola| <img src="/pictures/Lefevre_1.png" width="300"/>|
 
 
 | Type | Example | 
