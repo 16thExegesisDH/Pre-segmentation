@@ -14,7 +14,7 @@ legende : light blue
 
 | Type | Example | 
 | -------- | ------- |
-|RunningTitleZone pink <br/>  MainZone:Head : yellow <br/> MainZone:P : dark green <br/> MainZone:P#Continued : light blue <br/> NumberingZone : rosa "456", "II", "III" <br/> QuireMarkZone : viola| <img src="/pictures/Bucer_Rm_1.png" width="300"/>|
+|RunningTitleZone pink <br/> DropCapitalZone : dark viola <br/> MainZone:Head : yellow <br/> MainZone:P : dark green <br/> MainZone:P#Continued : light blue <br/> NumberingZone : rosa "456", "II", "III" <br/> QuireMarkZone : viola| <img src="/pictures/Bucer_Rm_1.png" width="300"/>|
 
 
 | Type | Example | 
@@ -24,5 +24,5 @@ legende : light blue
 
 | Type | Example | 
 | -------- | ------- |
-|RunningTitleZone pink <br/>  MainZone:Head : yellow <br/> MainZone:P : dark green <br/> MainZone:P#Continued : light blue <br/> NumberingZone : rosa for "section 12" and "102" | <img src="/pictures/Lefevre_2.png" width="300"/>|
+|RunningTitleZone pink <br/>  DropCapitalZone : dark viola <br/> MainZone:Head : yellow <br/> MainZone:P : dark green <br/> MainZone:P#Continued : light blue <br/> NumberingZone : rosa for "section 12" and "102" | <img src="/pictures/Lefevre_2.png" width="300"/>|
 
